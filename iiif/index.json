@@ -22,7 +22,16 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    " Estudo para Desembarque de Dona Leopoldina no Brasil"
+                    " Pintura - Estudo para Desembarque de Dona Leopoldina no Brasil"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Acessórios do figurino: tiara, colar e  medalhão"
                 ]
             }
         },
@@ -31,7 +40,61 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Frame desembarque de D. Leopoldina"
+                    "Cena desembarque de D. Leopoldina"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Detalhes do colar e faixa de D. Leopoldina"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Detalhes do figurino do casamento"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Figurino com tiara e medalhão"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Figurino do casamento"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pintura medalhão da Ordem da Cruz Estrelada"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tiara e colar de pérolas - Pintura de Maria Leopoldina da Áustria"
                 ]
             }
         }

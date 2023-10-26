@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://acervo-novo-mundo.vercel.app/4/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Tiara e colar de pérolas - Pintura de Maria Leopoldina da Áustria"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "SCHLAPPRIZ, Luis"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Óleo sobre tela"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Acervo Museu do Estado de Pernambuco"
+    },
+    "thumbnail": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/4/d678a312125a1eb2b69a908ba4f64cc2/full/209,300/0/default.png",
+            "type": "Image",
+            "format": "image/png",
+            "height": 300,
+            "width": 209
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/4/canvas/0",
+            "type": "Canvas",
+            "height": 800,
+            "width": 558,
+            "items": [
+                {
+                    "id": "http://acervo-novo-mundo.vercel.app/4/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://acervo-novo-mundo.vercel.app/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://acervo-novo-mundo.vercel.app/4/canvas/0",
+                            "body": {
+                                "id": "http://acervo-novo-mundo.vercel.app/4/d678a312125a1eb2b69a908ba4f64cc2/full/1395,2000/0/default.png",
+                                "type": "Image",
+                                "format": "image/png",
+                                "height": 2000,
+                                "width": 1395,
+                                "service": [
+                                    {
+                                        "id": "http://acervo-novo-mundo.vercel.app/4/d678a312125a1eb2b69a908ba4f64cc2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
