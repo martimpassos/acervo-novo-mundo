@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://acervo-novo-mundo.vercel.app/7/917e1c385737501ad387da70ddc88688",
+  "id": "https://acervo-novo-mundo.vercel.app/7/917e1c385737501ad387da70ddc88688",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

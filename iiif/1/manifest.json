@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://acervo-novo-mundo.vercel.app/1/manifest.json",
+    "id": "https://acervo-novo-mundo.vercel.app/1/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -51,7 +51,7 @@
     },
     "thumbnail": [
         {
-            "id": "http://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
+            "id": "https://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
             "type": "Image",
             "format": "image/png",
             "height": 179,
@@ -71,29 +71,29 @@
     ],
     "items": [
         {
-            "id": "http://acervo-novo-mundo.vercel.app/1/canvas/0",
+            "id": "https://acervo-novo-mundo.vercel.app/1/canvas/0",
             "type": "Canvas",
             "height": 477,
             "width": 800,
             "items": [
                 {
-                    "id": "http://acervo-novo-mundo.vercel.app/1/canvas/0/annotation-page",
+                    "id": "https://acervo-novo-mundo.vercel.app/1/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://acervo-novo-mundo.vercel.app/1/annotation/0",
+                            "id": "https://acervo-novo-mundo.vercel.app/1/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://acervo-novo-mundo.vercel.app/1/canvas/0",
+                            "target": "https://acervo-novo-mundo.vercel.app/1/canvas/0",
                             "body": {
-                                "id": "http://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/2000,1193/0/default.png",
+                                "id": "https://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/2000,1193/0/default.png",
                                 "type": "Image",
                                 "format": "image/png",
                                 "height": 1193,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2",
+                                        "id": "https://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
