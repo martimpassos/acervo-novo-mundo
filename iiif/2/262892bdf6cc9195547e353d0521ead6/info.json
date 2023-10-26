@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "http://acervo-novo-mundo.vercel.app/2/262892bdf6cc9195547e353d0521ead6",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1366,
+  "height": 609,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 134
+    },
+    {
+      "width": 2000,
+      "height": 892
+    }
+  ]
+}

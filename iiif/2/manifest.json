@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://acervo-novo-mundo.vercel.app/2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Frame desembarque de D. Leopoldina"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rede Globo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2017"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Frame da novela"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Novo Mundo"
+    },
+    "thumbnail": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/2/262892bdf6cc9195547e353d0521ead6/full/300,134/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 134,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/2/canvas/0",
+            "type": "Canvas",
+            "height": 609,
+            "width": 1366,
+            "items": [
+                {
+                    "id": "http://acervo-novo-mundo.vercel.app/2/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://acervo-novo-mundo.vercel.app/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://acervo-novo-mundo.vercel.app/2/canvas/0",
+                            "body": {
+                                "id": "http://acervo-novo-mundo.vercel.app/2/262892bdf6cc9195547e353d0521ead6/full/2000,892/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 892,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "http://acervo-novo-mundo.vercel.app/2/262892bdf6cc9195547e353d0521ead6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

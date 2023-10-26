@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://acervo-novo-mundo.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Coleção Novo Mundo"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
+            "type": "Image",
+            "format": "image/png",
+            "height": 179,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    " Estudo para Desembarque de Dona Leopoldina no Brasil"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Frame desembarque de D. Leopoldina"
+                ]
+            }
+        }
+    ]
+}
